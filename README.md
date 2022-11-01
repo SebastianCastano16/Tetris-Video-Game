@@ -1,6 +1,6 @@
 # TetrisGameInJava
 
--Created a tetris game created in Java presented on a JFrame window displaying a user-friendly classic game. 
+-Created a tetris game created in Java presented on a 16 by 12 JFrame window displaying a user-friendly classic game that runs on 60 FPS(Frames per second).
 
 -Designed a straightforward game to listen to arrow keystrokes for the side, down, and rotational movements within the game. 
 
